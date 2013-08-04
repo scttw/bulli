@@ -1,0 +1,1 @@
+a:3:{s:7:"classes";a:5:{i:0;a:1:{s:9:"className";s:8:"Injector";}i:1;a:1:{s:9:"className";s:16:"InjectionCreator";}i:2;a:1:{s:9:"className";s:28:"SilverStripeInjectionCreator";}i:3;a:1:{s:9:"className";s:27:"ServiceConfigurationLocator";}i:4;a:1:{s:9:"className";s:39:"SilverStripeServiceConfigurationLocator";}}s:10:"interfaces";a:0:{}s:9:"namespace";s:0:"";}
